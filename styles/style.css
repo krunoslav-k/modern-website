@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: roboto, sans-serif;
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header p {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-left: ;
+}
+
+ul {
+
+}
+
+li {
+    list-style: none;
+}
