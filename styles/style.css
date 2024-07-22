@@ -191,3 +191,12 @@ li {
     padding: 8px 22px;
     font-size: 14px;
 }
+
+footer {
+    background-color: #1F2937;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
