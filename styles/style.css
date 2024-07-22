@@ -82,4 +82,49 @@ li {
     width: 800px;
 }
 
+.information-container {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50vh;
+    width: 70vw;
+}
+
+.information h2 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.cards-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 60vw;
+}
+
+.card-and-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    border: solid #3882F6 4px;
+    border-radius: 18px;
+    height: 150px;
+    width: 150px; 
+}
+
+.text {
+    width: 150px;
+    color: #767575;
+    text-align: center;
+}
